@@ -1,7 +1,7 @@
-## Faaaala dev, Adielson Medeiros Aqui!
+### Hi! I'm Adielson Medeiros 😄
 
 <div>
-  
+  <br/>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AdielsonMedeiros&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdielsonMedeiros&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
@@ -10,24 +10,27 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Passionate about technology, I'm currently studying Systems Analysis and Development at Unicesumar College and focused on learning new things every day.
+    <h1 align="center">Technologies I use in my day<3<br/>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <br/><img align="center"  alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align="center"  alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: medeirosadielson@gmail.com">
-      <img width="30" src="gmail.svg">
+  <h1 align="center">Social media
+   
+   
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adielson-medeiros-671a68219/)<br/>
+     <a href = "mailto: medeirosadielson@gmail.com">
+      <img width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href = "https://www.linkedin.com/in/adielson-medeiros-671a68219/">
-      <img width="25" src="linkedin.svg">
     </a>
   </div>
   
-![Snake Animation](https://github.com/AdielsonMedeiros/AdielsonMedeiros/blob/output/github-contribution-grid-snake.svg)
+
