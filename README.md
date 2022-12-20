@@ -7,8 +7,6 @@
 <br>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Passionate about technology, I'm currently studying Systems Analysis and Development at Unicesumar College and focused on learning new things every day.
     <h1 align="center">Technologies I use in my day<3<br/>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
