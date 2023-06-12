@@ -1,8 +1,7 @@
-<p border-right="0.1em solid black" padding-right="2px" animation=" 1s steps(20) forwards"> Adielson Medeiros</p>
+<p align="center" border-right="0.1em solid black" padding-right="2px" animation=" 1s steps(20) forwards"> Adielson Medeiros</p>
 
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdielsonMedeiros&layout=compact&langs_count=16&theme=cobalt"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api?username=AdielsonMedeiros&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdielsonMedeiros&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
 <br/><br/>
 
