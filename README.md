@@ -56,7 +56,7 @@
   </div>
   
 
-  ![snake gif](https://github.com/AdielsonMedeiros/AdielsonMedeiros/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/AdielsonMedeiros/AdielsonMedeiros/blob/output/github-contribution-grid-snake.svg)
   
   
 
