@@ -14,8 +14,8 @@
 
 <div>
     <h2  style="color: #6A5ACD;">Overview 👉</h2>
-    <h1 align="center" style="color: #e8e2f7">Passionate about technology, I'm currently studying Systems Analysis and Development at Unicesumar College and focused on learning new things every day. </h1>
-    <h2 style="color: #6A5ACD;">Skills 🚀</h2>
+    <h1 align="center" style="color: #e8e2f7"><br/>Passionate about technology, I'm currently studying Systems Analysis and Development at Unicesumar College and focused on learning new things every day.<br/> </h1>
+    <h2 style="color: #6A5ACD;"><br/>Skills 🚀</h2>
     <div align="center">
     <br/><img  height="40" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img  height="40" width="50" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
