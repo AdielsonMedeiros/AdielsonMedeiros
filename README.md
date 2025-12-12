@@ -2,10 +2,7 @@
 【𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱】
 </h1>
 
-<div align="center">
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdielsonMedeiros&layout=compact&langs_count=16&theme=dark"/>
-</div>
-<br/><br/>
+
 
 <img src="./img/Design sem nome (1).png" style="display: block; margin: 0 auto;">
 <br>
