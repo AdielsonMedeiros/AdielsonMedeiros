@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 </h2>
 
-<div align="center">
+
   
 ```javascript
 const adielson = {
@@ -55,7 +55,7 @@ const adielson = {
 };
 ```
 
-</div>
+
 
 <br>
 
@@ -123,7 +123,7 @@ const adielson = {
 <br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" height="25" /> Professional Experience
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" height="35" /> Professional Experience
 </h2>
 
 <div align="center">
