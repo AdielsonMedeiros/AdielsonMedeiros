@@ -123,18 +123,18 @@
 <br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" height="35" /> Professional Experience
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" height="25" /> Professional Experience
 </h2>
 
 <div align="center">
 
-**Full Stack Developer** @ Pitanga Tech 
+**Software Engineer** @ Pitanga Tech 
 `React` `TypeScript` `Node.js` `Express` `Firebase`
 
-**Full Stack Developer** @ ASTRAN 
+**Software Engineer** @ ASTRAN 
 `React` `Vite` `Node.js` `AI Integration`
 
-**Full Stack Developer** @ Romão Advogados 
+**Software Engineer** @ Romão Advogados 
 `Angular 21` `NestJS` `PostgreSQL` `Cloudflare R2`
 
 **Software Developer** @ LFG Advocacia 
