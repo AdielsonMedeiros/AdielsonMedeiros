@@ -29,30 +29,30 @@
 
   
 ```javascript
-                                        const adielson = {
-                                            location: "Brazil 🇧🇷",
-                                            education: "Systems Analysis and Development @ Unicesumar",
-                                            currentFocus: "Software Engineering",
-                                            
-                                            code: ["JavaScript", "Java", "C", "TypeScript", "Python"],
-                                            technologies: {
-                                                frontEnd: {
-                                                    js: ["React", "React Native"],
-                                                    css: ["TailwindCSS", "Bootstrap", "Styled Components"]
-                                                },
-                                                backEnd: {
-                                                    js: ["Node.js", "Express"],
-                                                    java: ["Spring Boot"]
-                                                },
-                                                databases: ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
-                                                cloud: ["AWS"],
-                                                tools: ["Git", "Docker", "VS Code"]
-                                            },
-                                            
-                                            currentlyLearning: ["Software Architecture", "Cloud Computing", "System Design"],
-                                            
-                                            funFact: "Programming is not just my job, it's my lifestyle! 💻"
-                                        };
+                        const adielson = {
+                            location: "Brazil 🇧🇷",
+                            education: "Systems Analysis and Development @ Unicesumar",
+                            currentFocus: "Software Engineering",
+                            
+                            code: ["JavaScript", "Java", "C", "TypeScript", "Python"],
+                            technologies: {
+                                frontEnd: {
+                                    js: ["React", "React Native"],
+                                    css: ["TailwindCSS", "Bootstrap", "Styled Components"]
+                                },
+                                backEnd: {
+                                    js: ["Node.js", "Express"],
+                                    java: ["Spring Boot"]
+                                },
+                                databases: ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
+                                cloud: ["AWS"],
+                                tools: ["Git", "Docker", "VS Code"]
+                            },
+                            
+                            currentlyLearning: ["Software Architecture", "Cloud Computing", "System Design"],
+                            
+                            funFact: "Programming is not just my job, it's my lifestyle! 💻"
+                      };
 ```
 
 
