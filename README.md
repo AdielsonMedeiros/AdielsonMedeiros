@@ -1,3 +1,25 @@
+![Readme-UI](https://readme-ui-pi.vercel.app/api/render?width=460&height=200&template=typing&lines=Adielson+Medeiros+%7C+Engenheiro+de+Software&theme=dark&_t=1768068768030&format=svg)
+![Readme-UI](https://readme-ui-pi.vercel.app/api/render?width=460&height=200&template=weather&city=Rio+de+Janeiro&theme=light&_t=1768072941334&format=svg)
+![Readme-UI](https://readme-ui-pi.vercel.app/api/render?width=460&height=200&template=snake&username=AdielsonMedeiros&theme=dark&_t=1768069489250&format=svg)
+![Readme-UI](https://readme-ui-pi.vercel.app/api/render?width=460&height=200&template=music&trackName=Timidez&artist=Cavalo+de+Pau&theme=dark&_t=1768069629168&format=svg)
+![Readme-UI](https://readme-ui-pi.vercel.app/api/render?width=460&height=135&template=spotify&title=Insensato+Destino&artist=+Samba+De+Raiz+&progress=33&status=Listening+on+Spotify&theme=dark&_t=1768069880798&format=svg)
+![Readme-UI](https://readme-ui-pi.vercel.app/api/render?width=460&height=200&template=languages&langs=TypeScript%3A60%2CJavaScript%3A30%2CCSS%3A10&theme=dark&_t=1768074938871&format=svg)
+![Readme-UI](https://readme-ui-pi.vercel.app/api/render?width=460&height=200&template=snippet&code=const+me+%3D+%7B%0A++role%3A+%22Dev%22%0A%7D%3B&title=oi&theme=dark&_t=1768075035545&format=svg)
+![Readme-UI](https://readme-ui-pi.vercel.app/api/render?width=650&height=400&template=hacking&username=AdielsonMedeiros&theme=dark&_t=1768075120346&format=svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
 
 <div align="center">
