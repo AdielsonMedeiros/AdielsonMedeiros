@@ -206,7 +206,7 @@
 
 <div align="center">
 
-| 🎨 Project | 📝 Description | 🔗 Link |
+|  Project |  Description |  Link |
 |:-----------|:---------------|:--------|
 | **Portfolio** | My personal portfolio website | [![View](https://img.shields.io/badge/View-6A5ACD?style=flat-square&logo=github)](https://github.com/AdielsonMedeiros/portfolio) |
 | **Controle Financeiro** | Financial control web application | [![View](https://img.shields.io/badge/View-6A5ACD?style=flat-square&logo=github)](https://github.com/AdielsonMedeiros/Controle-Financeiro-Web) |
