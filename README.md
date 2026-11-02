@@ -39,10 +39,10 @@
     ]
   },
   "architecture_patterns": [
-    "SAGA Pattern",
-    "Microservices",
-    "Event-Driven Architecture",
-    "CQRS",
+    "SAGA (Choreography & Orchestration)",
+    "Distributed Systems Architecture",
+    "Microservices & Event-Driven",
+    "CQRS & Resilient Messaging",
     "Clean Architecture & SOLID"
   ],
   "tech_stack": {
@@ -60,6 +60,7 @@
       "Fine-Tuning",
       "AI Integrations"
     ],
+    "observability_and_mobile_services": ["Sentry", "Firebase Crashlytics", "Microsoft Clarity", "FCM Push Notifications"],
     "tools_and_ides": ["Android Studio", "VS Code", "Postman", "Figma"]
   },
   "current_focus": "High-Throughput Distributed Systems & Event Choreography",
@@ -88,7 +89,8 @@
 <div align="center">
 
 ### Architecture & Distributed Systems
-![SAGA Pattern](https://img.shields.io/badge/Pattern-SAGA-6A5ACD?style=for-the-badge&logoColor=white)
+![SAGA Orchestration](https://img.shields.io/badge/Pattern-SAGA_Orchestration-6A5ACD?style=for-the-badge&logoColor=white)
+![Event Choreography](https://img.shields.io/badge/Architecture-Event_Choreography-6A5ACD?style=for-the-badge&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Specialization-Distributed_Systems-6A5ACD?style=for-the-badge&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Architecture-Microservices-6A5ACD?style=for-the-badge&logoColor=white)
 ![Event-Driven](https://img.shields.io/badge/Architecture-Event--Driven-6A5ACD?style=for-the-badge&logoColor=white)
@@ -142,6 +144,12 @@
 ![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-6A5ACD?style=for-the-badge)
 ![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-6A5ACD?style=for-the-badge)
 ![AI Integrations](https://img.shields.io/badge/AI_Integrations-6A5ACD?style=for-the-badge)
+
+### Observability, Analytics & Push Notifications
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Firebase Crashlytics](https://img.shields.io/badge/Firebase_Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Push Notifications FCM](https://img.shields.io/badge/Push_Notifications-FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### IDEs & Tools
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
