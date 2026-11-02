@@ -26,30 +26,36 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 </h2>
 
-```javascript
-const adielson = {
-    location: "Rio de Janeiro, Brazil 🇧🇷",
-    education: [
-        "B.S. in Software Engineering",
-        "Technologist in Systems Analysis and Development (ADS)",
-        "Postgraduate in Distributed Software Architecture @ PUC"
-    ],
-    specialization: "Distributed Systems & Resilient Backend Architecture",
-
-    languages: ["TypeScript", "JavaScript", "Java", "Kotlin", "Dart", "Python", "C"],
-    architecture: ["SAGA Pattern", "Microservices", "Event-Driven Architecture", "CQRS"],
-    
-    technologies: {
-        frontendAndMobile: ["React", "React Native", "Flutter", "Angular", "Next.js", "Tailwind CSS"],
-        backendAndMessaging: ["Apache Kafka", "Node.js", "NestJS", "Spring Boot", "Express", "Flask"],
-        databases: ["PostgreSQL", "Microsoft SQL Server", "MySQL", "MongoDB", "Firebase"],
-        cloudAndDevOps: ["AWS (Certified)", "Microsoft Azure", "Docker", "Linux / VPS", "Git"],
-        aiAndTooling: ["Antigravity AI", "VS Code", "Postman", "Figma"]
-    },
-
-    currentFocus: ["High-Throughput Distributed Systems", "Event Choreography & SAGA", "Cloud Solutions"],
-    lifestyle: "Engineering resilient, scalable architectures with clean code & SOLID. 🚀"
-};
+```json
+{
+  "developer": "Adielson Medeiros",
+  "role": "Software Engineer & Distributed Systems Specialist",
+  "location": "Rio de Janeiro, Brazil 🇧🇷",
+  "education": {
+    "postgraduate": "Distributed Software Architecture @ PUC",
+    "undergraduate": [
+      "B.S. in Software Engineering",
+      "Systems Analysis and Development (ADS) @ Unicesumar"
+    ]
+  },
+  "architecture_patterns": [
+    "SAGA Pattern",
+    "Microservices",
+    "Event-Driven Architecture",
+    "CQRS",
+    "Clean Architecture & SOLID"
+  ],
+  "tech_stack": {
+    "languages": ["TypeScript", "JavaScript", "Java", "Kotlin", "Dart", "Python", "C"],
+    "frontend_mobile": ["React", "React Native", "Flutter", "Angular", "Next.js", "Tailwind CSS"],
+    "backend_messaging": ["Apache Kafka", "Node.js", "NestJS", "Spring Boot", "Express", "Flask"],
+    "databases": ["PostgreSQL", "Microsoft SQL Server", "MySQL", "MongoDB", "Firebase"],
+    "cloud_devops": ["AWS (Certified)", "Microsoft Azure", "Docker", "Linux / VPS", "Git"],
+    "ai_and_tools": ["Antigravity AI", "VS Code", "Postman", "Figma"]
+  },
+  "current_focus": "High-Throughput Distributed Systems & Event Choreography",
+  "lifestyle": "Engineering resilient, scalable architectures with high quality and clean code. 🚀"
+}
 ```
 
 
