@@ -26,33 +26,30 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 </h2>
 
-
-  
 ```javascript
-                        const adielson = {
-                            location: "Brazil 🇧🇷",
-                            education: "Systems Analysis and Development @ Unicesumar",
-                            currentFocus: "Software Engineering",
-                            
-                            code: ["JavaScript", "Java", "C", "TypeScript", "Python"],
-                            technologies: {
-                                frontEnd: {
-                                    js: ["React", "React Native"],
-                                    css: ["TailwindCSS", "Bootstrap", "Styled Components"]
-                                },
-                                backEnd: {
-                                    js: ["Node.js", "Express"],
-                                    java: ["Spring Boot"]
-                                },
-                                databases: ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
-                                cloud: ["AWS"],
-                                tools: ["Git", "Docker", "VS Code"]
-                            },
-                            
-                            currentlyLearning: ["Software Architecture", "Cloud Computing", "System Design"],
-                            
-                            funFact: "Programming is not just my job, it's my lifestyle! 💻"
-                      };
+const adielson = {
+    location: "Rio de Janeiro, Brazil 🇧🇷",
+    education: [
+        "B.S. in Software Engineering",
+        "Technologist in Systems Analysis and Development (ADS)",
+        "Postgraduate in Distributed Software Architecture @ PUC"
+    ],
+    specialization: "Distributed Systems & Resilient Backend Architecture",
+
+    languages: ["TypeScript", "JavaScript", "Java", "Kotlin", "Dart", "Python", "C"],
+    architecture: ["SAGA Pattern", "Microservices", "Event-Driven Architecture", "CQRS"],
+    
+    technologies: {
+        frontendAndMobile: ["React", "React Native", "Flutter", "Angular", "Next.js", "Tailwind CSS"],
+        backendAndMessaging: ["Apache Kafka", "Node.js", "NestJS", "Spring Boot", "Express", "Flask"],
+        databases: ["PostgreSQL", "Microsoft SQL Server", "MySQL", "MongoDB", "Firebase"],
+        cloudAndDevOps: ["AWS (Certified)", "Microsoft Azure", "Docker", "Linux / VPS", "Git"],
+        aiAndTooling: ["Antigravity AI", "VS Code", "Postman", "Figma"]
+    },
+
+    currentFocus: ["High-Throughput Distributed Systems", "Event Choreography & SAGA", "Cloud Solutions"],
+    lifestyle: "Engineering resilient, scalable architectures with clean code & SOLID. 🚀"
+};
 ```
 
 
@@ -230,7 +227,7 @@
   <a href="https://portfolio-omega-liard-63.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/adielson-medeiros-671a68219/" target="_blank">
+  <a href="https://www.linkedin.com/in/adielsonmedeiros/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:medeirosadielson@gmail.com" target="_blank">
