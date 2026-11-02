@@ -26,32 +26,35 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 </h2>
 
-```json
-{
-  "developer": "Adielson Medeiros",
-  "role": "Software Engineer & Distributed Systems Specialist",
-  "location": "Rio de Janeiro, Brazil",
-  "education": {
-    "postgraduate": "Distributed Software Architecture @ PUC",
-    "undergraduate": [
+```typescript
+const adielson = {
+  developer: "Adielson Medeiros",
+  role: "Software Engineer & Distributed Systems Specialist",
+  location: "Rio de Janeiro, Brazil",
+
+  education: {
+    postgraduate: "Distributed Software Architecture @ PUC",
+    undergraduate: [
       "B.S. in Software Engineering",
       "Systems Analysis and Development (ADS) @ Unicesumar"
     ]
   },
-  "architecture_patterns": [
+
+  architecturePatterns: [
     "SAGA (Choreography & Orchestration)",
     "Distributed Systems Architecture",
     "Microservices & Event-Driven",
     "CQRS & Resilient Messaging",
     "Clean Architecture & SOLID"
   ],
-  "tech_stack": {
-    "languages": ["TypeScript", "JavaScript", "Java", "Kotlin", "Dart", "Python", "C"],
-    "frontend_mobile": ["React", "React Native", "Flutter", "Angular", "Next.js", "Tailwind CSS"],
-    "backend_messaging": ["Apache Kafka", "Node.js", "NestJS", "Spring Boot", "Express", "Flask"],
-    "databases": ["PostgreSQL", "Microsoft SQL Server", "MySQL", "MongoDB", "Firebase"],
-    "cloud_devops": ["AWS (Certified)", "Microsoft Azure", "Docker", "Linux / VPS", "Git"],
-    "ai_and_llms": [
+
+  techStack: {
+    languages: ["TypeScript", "JavaScript", "Java", "Kotlin", "Dart", "Python", "C"],
+    frontendMobile: ["React", "React Native", "Flutter", "Angular", "Next.js", "Tailwind CSS"],
+    backendMessaging: ["Apache Kafka", "Node.js", "NestJS", "Spring Boot", "Express", "Flask"],
+    databases: ["PostgreSQL", "Microsoft SQL Server", "MySQL", "MongoDB", "Firebase"],
+    cloudDevOps: ["AWS (Certified)", "Microsoft Azure", "Docker", "Linux / VPS", "Git"],
+    aiAndLlms: [
       "Antigravity AI",
       "Google Gemini",
       "Claude",
@@ -60,12 +63,13 @@
       "Fine-Tuning",
       "AI Integrations"
     ],
-    "observability_and_mobile_services": ["Sentry", "Firebase Crashlytics", "Microsoft Clarity", "FCM Push Notifications"],
-    "tools_and_ides": ["Android Studio", "VS Code", "Postman", "Figma"]
+    observabilityAndServices: ["Sentry", "Firebase Crashlytics", "Microsoft Clarity", "FCM Push Notifications"],
+    toolsAndIdes: ["Android Studio", "VS Code", "Postman", "Figma"]
   },
-  "current_focus": "High-Throughput Distributed Systems & Event Choreography",
-  "lifestyle": "Engineering resilient, scalable architectures with high quality and clean code."
-}
+
+  currentFocus: "High-Throughput Distributed Systems & Event Choreography",
+  lifestyle: "Engineering resilient, scalable architectures with high quality and clean code."
+};
 ```
 
 
