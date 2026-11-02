@@ -51,7 +51,16 @@
     "backend_messaging": ["Apache Kafka", "Node.js", "NestJS", "Spring Boot", "Express", "Flask"],
     "databases": ["PostgreSQL", "Microsoft SQL Server", "MySQL", "MongoDB", "Firebase"],
     "cloud_devops": ["AWS (Certified)", "Microsoft Azure", "Docker", "Linux / VPS", "Git"],
-    "ai_and_tools": ["Antigravity AI", "VS Code", "Postman", "Figma"]
+    "ai_and_llms": [
+      "Antigravity AI",
+      "Google Gemini",
+      "Claude",
+      "OpenAI Codex",
+      "RAG Architecture",
+      "Fine-Tuning",
+      "AI Integrations"
+    ],
+    "tools_and_ides": ["VS Code", "Postman", "Figma"]
   },
   "current_focus": "High-Throughput Distributed Systems & Event Choreography",
   "lifestyle": "Engineering resilient, scalable architectures with high quality and clean code."
@@ -125,8 +134,16 @@
 ![Linux VPS](https://img.shields.io/badge/Linux_/_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### AI, IDEs & Developer Tools
+### Artificial Intelligence & LLMs
 ![Antigravity AI](https://img.shields.io/badge/Antigravity_AI-6A5ACD?style=for-the-badge&logo=google&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-6A5ACD?style=for-the-badge)
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-6A5ACD?style=for-the-badge)
+![AI Integrations](https://img.shields.io/badge/AI_Integrations-6A5ACD?style=for-the-badge)
+
+### IDEs & Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
