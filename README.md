@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
 
 <div align="center">
@@ -184,21 +183,7 @@
 
 <br>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/l1J9F8KjL9L3T95AI/giphy.gif" width="35"> Contribution Streak
-</h2>
 
-<div align="center">
-  <a href="https://github.com/AdielsonMedeiros">
-    <img src="https://streak-stats.demolab.com/?user=AdielsonMedeiros&theme=tokyonight&background=0d1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
 
 <h2 align="center">
   <img src="https://media1.giphy.com/media/QLxP2qQp3F54c/giphy.gif" width="30"> Featured Projects
