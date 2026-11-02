@@ -60,7 +60,7 @@
       "Fine-Tuning",
       "AI Integrations"
     ],
-    "tools_and_ides": ["VS Code", "Postman", "Figma"]
+    "tools_and_ides": ["Android Studio", "VS Code", "Postman", "Figma"]
   },
   "current_focus": "High-Throughput Distributed Systems & Event Choreography",
   "lifestyle": "Engineering resilient, scalable architectures with high quality and clean code."
@@ -144,6 +144,7 @@
 ![AI Integrations](https://img.shields.io/badge/AI_Integrations-6A5ACD?style=for-the-badge)
 
 ### IDEs & Tools
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
