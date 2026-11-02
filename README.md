@@ -185,12 +185,12 @@
 <br>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/l1J9F8KjL9L3T95AI/giphy.gif" width="35"> Activity Graph
+  <img src="https://media.giphy.com/media/l1J9F8KjL9L3T95AI/giphy.gif" width="35"> Contribution Streak
 </h2>
 
 <div align="center">
   <a href="https://github.com/AdielsonMedeiros">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdielsonMedeiros&bg_color=0d1117&color=6A5ACD&line=32CD32&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+    <img src="https://streak-stats.demolab.com/?user=AdielsonMedeiros&theme=tokyonight&background=0d1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD&hide_border=true" alt="GitHub Streak"/>
   </a>
 </div>
 
